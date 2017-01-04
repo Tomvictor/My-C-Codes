@@ -2,7 +2,9 @@
 
 int main(int argc, char const *argv[])
 {
-	char s[15]="Hello World";
-	printf("%s\n",s );
+	int a=0,b=0,s=0 ;
+
+	printf("%f\n",&a );
+
 	return 0;
 }
