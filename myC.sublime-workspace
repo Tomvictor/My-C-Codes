@@ -1,0 +1,377 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getD",
+				"getDateTime"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"co",
+				"contrib"
+			],
+			[
+				"lo",
+				"logGreeting"
+			],
+			[
+				"gree",
+				"greetMe"
+			],
+			[
+				"ur",
+				"url"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "myC.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tomvictor/GitHub/My-C-Codes"
+	],
+	"file_history":
+	[
+		"/Users/tomvictor/GitHub/My-C-Codes/fibno.c",
+		"/Users/tomvictor/source/newnodetime/time.js",
+		"/Users/tomvictor/source/pydb.py",
+		"/Users/tomvictor/GitHub/My-C-Codes/hello.c",
+		"/Users/tomvictor/source/tom.c",
+		"/Users/tomvictor/Downloads/upload_t7HmxRN.php",
+		"/Users/tomvictor/source/tomb",
+		"/Users/tomvictor/source/pymongo.py",
+		"/Users/tomvictor/source/mongonode/app.js",
+		"/Users/tomvictor/source/nodejs_test/exapp/myapp/package.json",
+		"/Users/tomvictor/source/nodejs_test/exapp/myapp/mq.js",
+		"/Users/tomvictor/source/nodejs_test/exapp/myapp/tom.js",
+		"/Users/tomvictor/source/nodejs_test/exapp/myapp/app.js",
+		"/Users/tomvictor/source/nodejs_test/exapp/myapp/mq.py",
+		"/Users/tomvictor/source/nodejs_test/tom.js",
+		"/Users/tomvictor/source/PW0020A.stp",
+		"/Users/tomvictor/muthoot/ProjectZeroApp_CC2650LAUNCHXL/Application/ProjectZero.c",
+		"/Users/tomvictor/muthoot/BleTracker/main.c",
+		"/Users/tomvictor/muthoot/ProjectZeroApp_CC2650LAUNCHXL/Startup/main.c",
+		"/Volumes/HP v236w/xmas.html",
+		"/Users/tomvictor/source/MSP-EXP432P401R_Software_Examples_mac/Firmware/Source/BOOSTXL-BATPAKMKII_FuelGauge_MSP432P401R/HAL_UART.c",
+		"/Users/tomvictor/source/MSP-EXP432P401R_Software_Examples_mac/Firmware/Source/BOOSTXL-BATPAKMKII_FuelGauge_MSP432P401R/driverlib/MSP432P4xx/uart.h",
+		"/Users/tomvictor/source/MSP-EXP432P401R_Software_Examples_mac/Firmware/Binary/BlinkLED_MSP432P401R/Program BlinkLED_MSP432P401R.command",
+		"/Users/tomvictor/source/MSP-EXP432P401R_Software_Examples_mac/Firmware/Binary/BlinkLED_MSP432P401R/BlinkLED_MSP432P401R.out",
+		"/Users/tomvictor/Bitbucket/tracking-device/main.c",
+		"/Volumes/HP v236w/Workshop_Package/Hands-on/Temp_Send/driverlib/MSP432P4xx/adc14.c",
+		"/Users/tomvictor/Music/tomSignature.svg",
+		"/Users/tomvictor/Documents/TI_RTOS_labs_sols_rev4/MSP430/Sols/blink_MSP430_SWI_SOL/main.c",
+		"/Users/tomvictor/Documents/TI_RTOS_labs_sols_rev4/TM4C/Sols/blink_TM4C_HWI_SOL/main.c",
+		"/Users/tomvictor/Documents/TI_RTOS_labs_sols_rev4/TM4C/Sols/blink_TM4C_BIOS_SOL/main.c",
+		"/Users/tomvictor/Documents/TI_RTOS_labs_sols_rev4/TM4C/Labs/Lab_05/Files/main.c",
+		"/Users/tomvictor/Documents/TI_RTOS_labs_sols_rev4/TM4C/Labs/Lab_04/Files/main.c",
+		"/Users/tomvictor/Documents/TI_RTOS_labs_sols_rev4/TM4C/Labs/Lab_02/Files/main.c",
+		"/Users/tomvictor/Downloads/BluetoothDeveloperStarterKitV3_0_0/Arduino/Solutions/Generated Code for Genuino 101/BluetoothDeveloperStarterKit/BluetoothDeveloperStarterKit.ino",
+		"/Users/tomvictor/Downloads/BluetoothDeveloperStarterKitV3_0_0/Arduino/Solutions/Full Solution for Genuino 101/BluetoothDeveloperStarterKit/BluetoothDeveloperStarterKit.ino",
+		"/Users/tomvictor/Downloads/org.bluetooth.descriptor.gatt.characteristic_user_description.xml",
+		"/Users/tomvictor/Downloads/org.bluetooth.service.health_thermometer.xml",
+		"/bin/cp",
+		"/private/etc/apache2/httpd.conf",
+		"/Users/tomvictor/GitHub/django-error-pages/myproject/settings.py",
+		"/Users/tomvictor/misc/bosch/sitemain/apps.py",
+		"/Users/tomvictor/Downloads/sitemain_account.xml",
+		"/Users/tomvictor/Bitbucket/bosch-hackathon/bosch/db.sqlite3",
+		"/Users/tomvictor/Desktop/login.html",
+		"/Users/tomvictor/source/M66FAR01A08BT/BOOTLOADER_M66FAR01A08BT.bin",
+		"/Users/tomvictor/GitHub/django-error-pages/templates/index.html",
+		"/Users/tomvictor/Desktop/BOSCH/BOSCH/home.html",
+		"/Users/tomvictor/Desktop/tom.html",
+		"/Users/tomvictor/AndroidStudioProjects/BoschDNA/README.md",
+		"/Users/tomvictor/myenv3/lib/python3.5/site-packages/django/templatetags/i18n.py",
+		"/Users/tomvictor/GitHub/django-password-reset-demo/demo/demo/urls.py",
+		"/Users/tomvictor/GitHub/django-password-reset-demo/demo/demo/settings.py",
+		"/Users/tomvictor/GitHub/django-password-reset-demo/demo/templates/index.html",
+		"/Users/tomvictor/GitHub/django-password-reset-demo/README.md",
+		"/Users/tomvictor/misc/test.html",
+		"/Users/tomvictor/Documents/Bosch/BOSCH_new/BOSCH_new/home.html",
+		"/Users/tomvictor/Bitbucket/bosch-hackathon/bosch/sitemain/migrations/0001_initial.py",
+		"/Users/tomvictor/Bitbucket/bosch-hackathon/bosch/sitemain/__pycache__/views.cpython-35.pyc",
+		"/Users/tomvictor/Bitbucket/bosch-hackathon/bosch/sitemain/__pycache__/models.cpython-35.pyc",
+		"/Users/tomvictor/Bitbucket/bosch-hackathon/bosch/sitemain/__pycache__/forms.cpython-35.pyc",
+		"/Users/tomvictor/Bitbucket/bosch-hackathon/bosch/sitemain/__pycache__/__init__.cpython-35.pyc",
+		"/Users/tomvictor/Bitbucket/bosch-hackathon/bosch/sitemain/__init__.py",
+		"/Users/tomvictor/Bitbucket/bosch-hackathon/bosch/templates/admin/LICENSE",
+		"/Users/tomvictor/Bitbucket/bosch-hackathon/bosch/templates/admin/README.md",
+		"/Users/tomvictor/Desktop/ckeditor/build-config.js",
+		"/Users/tomvictor/Desktop/ckeditor/plugins/codesnippet/dialogs/codesnippet.js",
+		"/Users/tomvictor/Desktop/ckeditor/styles.js",
+		"/Users/tomvictor/Desktop/ckeditor/ckeditor.js",
+		"/Users/tomvictor/Desktop/ckeditor/plugins/codesnippet/lib/highlight/README.md",
+		"/Users/tomvictor/Desktop/ckeditor/skins/bootstrapck/sample/bootstrapck-sample.html",
+		"/Users/tomvictor/Desktop/ckeditor/config.js",
+		"/Users/tomvictor/Desktop/ckeditor/plugins/codesnippet/lib/highlight/highlight.pack.js",
+		"/Users/tomvictor/Desktop/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai_sublime.css",
+		"/Users/tomvictor/test.html",
+		"/Users/tomvictor/GitHub/my-MEAN-Stack/Lo8r/app.js",
+		"/Users/tomvictor/nw.html",
+		"/Users/tomvictor/new.html",
+		"/Users/tomvictor/GitHub/material-design-lite/gulpfile.babel.js",
+		"/Users/tomvictor/GitHub/material-design-lite/CONTRIBUTING.md",
+		"/Users/tomvictor/GitHub/material-design-lite/bower.json",
+		"/Users/tomvictor/GitHub/my-MEAN-Stack/.gitignore",
+		"/Users/tomvictor/GitHub/my-MEAN-Stack/.git/index",
+		"/Users/tomvictor/GitHub/my-MEAN-Stack/.git/config",
+		"/Users/tomvictor/GitHub/my-MEAN-Stack/.git/description",
+		"/Users/tomvictor/GitHub/nodejs-codes/express/node_modules/acorn/dist/walk.js",
+		"/Users/tomvictor/GitHub/nodejs-codes/express/node_modules/acorn/src/whitespace.js",
+		"/Users/tomvictor/GitHub/nodejs-codes/express/node_modules/.bin/uglifyjs",
+		"/Users/tomvictor/GitHub/nodejs-codes/express/bin/www",
+		"/Users/tomvictor/tom.js",
+		"/Users/tomvictor/GitHub/nodejs-codes/express/hello.js",
+		"/Users/tomvictor/GitHub/nodejs-codes/express/node_modules/express/lib/express.js",
+		"/Users/tomvictor/GitHub/nodejs-codes/express/node_modules/express/index.js",
+		"/Users/tomvictor/GitHub/nodejs-codes/express/package.json",
+		"/Users/tomvictor/GitHub/nodejs-codes/server/index.html",
+		"/Users/tomvictor/GitHub/nodejs-codes/server/app.js",
+		"/Users/tomvictor/GitHub/nodejs-codes/file systems/app.js",
+		"/Users/tomvictor/GitHub/nodejs-codes/file systems/greet.txt",
+		"/Users/tomvictor/GitHub/nodejs-codes/my server code.js",
+		"/Users/tomvictor/GitHub/nodejs-codes/file systems\\/app.js",
+		"/Users/tomvictor/Desktop/untitled.html",
+		"/Users/tomvictor/GitHub/nodejs-codes/README.md",
+		"/Users/tomvictor/GitHub/nodejs-codes/events and event emitters/nodeEvt.js",
+		"/Users/tomvictor/GitHub/nodejs-codes/events and event emitters/emitter.js",
+		"/Users/tomvictor/GitHub/nodejs-codes/prototype.js",
+		"/Users/tomvictor/GitHub/nodejs-codes/obj.js",
+		"/Users/tomvictor/GitHub/nodejs-codes/functions/app.js",
+		"/Users/tomvictor/GitHub/nodejs-codes/events and event emitters/obj properties.js",
+		"/Users/tomvictor/GitHub/nodejs-codes/events and event emitters/app.js",
+		"/Users/tomvictor/Bitbucket/bosch-hackathon/README.md",
+		"/Users/tomvictor/Bitbucket/bosch-hackathon/front-end/index.html",
+		"/Users/tomvictor/Desktop/abin.html",
+		"/bin/chmod",
+		"/Users/tomvictor/Bitbucket/bosch/bosch/bosch/settings.py",
+		"/Users/tomvictor/Bitbucket/bosch/front-end/index.html",
+		"/Users/tomvictor/Bitbucket/bosch/bosch/README.md",
+		"/Users/tomvictor/Bitbucket/bosch/README.md",
+		"/Users/tomvictor/Downloads/startbootstrap-new-age-gh-pages/index.html",
+		"/Users/tomvictor/Documents/Makeathon 2016/index.html",
+		"/Users/tomvictor/Documents/Makeathon 2016/Makeathon 2016/index.html",
+		"/Users/tomvictor/source/git repository/github/cms/README.md"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/tomvictor/myenv3/lib/python3.5/site-packages/django/contrib/admin"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"LEDSwi",
+			"default_token_generator",
+			"static",
+			"codesnippest",
+			"high",
+			"defa",
+			"cs",
+			"css",
+			"var routes = require('./routes/index');\nvar users = require('./routes/users');",
+			"!",
+			"Village"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "myC.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "myC.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"i18n",
+				"lib/python3.5/site-packages/django/templatetags/i18n.py"
+			],
+			[
+				"w",
+				"node_modules/acorn/src/whitespace.js"
+			],
+			[
+				"",
+				"node_modules/.bin/uglifyjs"
+			],
+			[
+				"ap",
+				"app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
