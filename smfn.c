@@ -2,9 +2,9 @@
 
 int main(int argc, char const *argv[])
 {
-	int result = 0, s = 1, t = 2;
+	int result = 0;
 	printf("%d start \n",result );
-	result = sum(s,t);
+	result = sum(1,2);
 	printf("%d result\n",result );
 	return 0;
 }
