@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+int sum(int,int) ;
+
 int main(int argc, char const *argv[])
 {
 	int result = 0;
