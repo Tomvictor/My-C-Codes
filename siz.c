@@ -3,6 +3,9 @@
 
 int main(int argc, char const *argv[])
 {
-	printf("%d\n",sizeof(int));
+	unsigned char s = 0, a = 255, b = 1;
+	s = a + b;
+	printf("%d\n",s);
 	return 0;
+
 }
