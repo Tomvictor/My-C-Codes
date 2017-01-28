@@ -32,10 +32,23 @@
 	"buffers":
 	[
 		{
-			"file": "myC.sublime-project",
+			"file": "pointer.c",
 			"settings":
 			{
-				"buffer_size": 45,
+				"buffer_size": 370,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "#include<iostream>\n \nusing namespace std;\n \nclass programming\n{\n   private:\n      int variable;\n \n   public:\n \n      void input_value()\n      {\n         cout << \"In function input_value, Enter an integer\\n\";\n         cin >> variable;\n      }\n \n      void output_value()\n      {\n         cout << \"Variable entered is \";\n         cout << variable << \"\\n\";\n      }\n};\n \nvoid  main()\n{\n   programming object;\n \n   object.input_value();\n   object.output_value();\n \n   //object.variable;  Will produce an error because variable is private\n \n   return 0;\n}",
+			"file": "/Users/tomvictor/source/cpp/hello.cpp",
+			"file_size": 548,
+			"file_write_time": 131286228550000000,
+			"settings":
+			{
+				"buffer_size": 549,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -76,6 +89,9 @@
 	],
 	"file_history":
 	[
+		"/Users/tomvictor/tom.cpp",
+		"/Users/tomvictor/GitHub/My-C-Codes/smfn.c",
+		"/Users/tomvictor/GitHub/My-C-Codes/siz.c",
 		"/Users/tomvictor/GitHub/My-C-Codes/fibno.c",
 		"/Users/tomvictor/source/newnodetime/time.js",
 		"/Users/tomvictor/source/pydb.py",
@@ -242,29 +258,59 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "myC.sublime-project",
-					"semi_transient": true,
+					"file": "pointer.c",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 45,
+						"buffer_size": 370,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								45,
-								45
+								367,
+								367
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/tomvictor/source/cpp/hello.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 549,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								373,
+								373
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
