@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include "swap.h"
 
-void swap(int *x,*y);
+
 
 int main(int argc, char const *argv[])
 {
@@ -16,11 +17,3 @@ int main(int argc, char const *argv[])
 	return 0 ;
 }
 
-void swap(int *x,*y)
-{
-	printf("inside swap fn: %d, %d\n",*x,*y );
-	int temp = *x ;
-	*x = *y ;
-	*y = temp ;
-	return ;
-}
