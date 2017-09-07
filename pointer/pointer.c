@@ -2,7 +2,6 @@
 #include "swap.h"
 
 
-
 int main(int argc, char const *argv[])
 {
 	int a, b ;
@@ -17,3 +16,5 @@ int main(int argc, char const *argv[])
 	return 0 ;
 }
 
+// gcc -o pointer pointer.c swap.c 
+// ./pointer
