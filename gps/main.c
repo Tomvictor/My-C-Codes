@@ -28,7 +28,7 @@ get_lon(*buff){
   parse_nmea(buff,5) ;
 }
 get_lon_hem(*buff){
-  parse_nmea(buff,6)
+  parse_nmea(buff,6) ;
 }
 parse_nmea(*buff,int count){
   char *p1, *p2 ;
