@@ -17,6 +17,7 @@ int main(void)
   return 0;
 }
 
+
 get_lat(*buff){
   parse_nmea(buff,3);
 }
@@ -24,12 +25,16 @@ get_lat(*buff){
 get_lat_hem(*buff){
   parse_nmea(buff,4) ;
 }
+
 get_lon(*buff){
   parse_nmea(buff,5) ;
 }
+
 get_lon_hem(*buff){
   parse_nmea(buff,6) ;
 }
+
+
 parse_nmea(*buff,int count){
   char *p1, *p2 ;
   char temp[12];
