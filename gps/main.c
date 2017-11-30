@@ -3,7 +3,13 @@
 
 char gp_buff[] = "$GPRMC,103956.000,A,1009.9733,N,07618.6494,E,0.00,272.93,120517,,,D*6F" ;
 
-
+struct GPS
+{
+  float latitude ;
+  float longitude ;
+  float speed ;
+  char is_fixed ;
+} location;
 
 
 int main(void)
@@ -48,6 +54,4 @@ parse_nmea(*buff,int count){
   memset(temp,0x0,10);
   memcpy(temp,p1,p2-p1);
   printf("\r\n%s\r\n",temp);
-
- 
 }
